@@ -1,0 +1,155 @@
+* {
+    --bg-color: #ffffff;
+    font-size: 20px;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title-area{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 25rem;
+}
+
+.title{
+    font-family: 'Yeseva One', sans-serif;
+    font-size: 4.8rem;
+    font-weight: 400;
+    line-height: 4rem;
+}
+
+.title-pic{
+    width: 25rem;
+    height: 8.5rem;
+}
+.chill-pic{
+    width: 100%;
+    position: relative;
+    top: 4.5rem;
+}
+.description{
+    font-family: 'Wix Madefor Display',sans-serif;
+    font-size: 2.4rem;
+    position: relative;
+    top: 7rem;
+}
+.line-area{
+    display: flex;
+    padding-top: 23rem;
+    gap: 1rem;
+}
+.line-desc-area{
+    width: 32.5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 8rem;
+}
+.line-desc{
+    font-family: 'Wix Madefor Display',sans-serif;
+    font-size: 2rem;
+}
+.line{
+    height: 273rem;
+    padding-top: 2rem;
+}
+.cool-pic{
+    width: 100%;
+    position: absolute;
+    top: 153rem;
+}
+.scream-pic{
+    width: 100%;
+    position: absolute;
+    top: 227rem;
+}
+.car-pic{
+    width: 100%;
+    position: absolute;
+    top: 289rem;
+}
+.important{
+    font-family: 'Yeseva One', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+}
+.gap{
+    padding-top: 27rem;
+}
+.gap1{
+    padding-top: 22rem;
+}
+.glos-area{
+    padding-top: 13rem;
+}
+.hunta-pic{
+    width: 100%;
+    padding-top: 3rem;
+}
+.glos{
+    width: 36rem;
+}
+.glos-word-area{
+    display: flex;
+    flex-direction: column;
+    gap: 6rem;
+    padding-top: 6rem;
+}
+.glos-word{
+    display: flex;
+    flex-direction: column;
+}
+.pp-area{
+    padding-top: 13rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ul{
+    padding-top: 3rem;
+}
+.li{
+    width: 34.5rem;
+    padding-top: 1rem;
+}
+.finish-area{
+    display: flex;
+    flex-direction: row;
+    padding-top: 21rem;
+    gap: 3rem;
+}
+.hw-pic{
+    width: 13.5rem;
+}
+.face-pic{
+    width: 8.6rem;
+}
+.by{    
+    font-family: 'Wix Madefor Display',sans-serif;
+    font-size: 1.2rem;
+}
+.me{
+    font-family: 'Yeseva One', sans-serif;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 1.7rem;
+}
+.by-me-area{
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    padding-top: 5.5rem;
+}
+.empty{
+    background-color: rgb(255, 255, 255);
+    height: 7.5rem;
+    width: 100%;
+}
